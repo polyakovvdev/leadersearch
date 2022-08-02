@@ -1,0 +1,20 @@
+.footer {
+    position: absolute;
+    width: 64%;
+    bottom: 10px;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+.footer__title {
+    margin-top: 20px;
+    font-size: 12px;
+    font-weight: 500;
+    color: #7C828B;
+}
+
+
+
+
+
+
